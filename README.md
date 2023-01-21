@@ -1,7 +1,7 @@
 # Hi there 👋
 ## README under construction
+    please hold
     [░░░░░░░░░░░░░          ]
-    
     
     
 ### Pronouns : 
@@ -9,7 +9,7 @@
 - She/her
 <!--    
 **cath-fmarie/cath-fmarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://www.markdownguide.org/basic-syntax/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
