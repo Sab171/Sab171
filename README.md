@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Sabrina
 # 💫 About Me:
 I am a computer engineering student (graduating in 2024).
----
-🔭I'm currently working on : Front-end development and data analysis<br>🌱I'm currently learning : Pyscript<br>⚡Fun fact : I still own my first nintendo DS
+
+🔭I'm currently working on : Making a functional twitter clone<br>🌱I'm currently learning : Pyscript<br>⚡Fun fact : I still own my first nintendo DS
 
 
 ## 🌐 Socials:
