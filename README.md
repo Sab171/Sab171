@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sabrina
 # 💫 About Me:
-I am a computer engineering student (graduating in 2024).
+I am a computer engineering student (graduating in 2024) and freelancer.
 
 🔭I'm currently working on : Making a functional twitter clone<br>🌱I'm currently learning : Pyscript<br>⚡Fun fact : I still own my first nintendo DS
 
