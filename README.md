@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Sabrina
 # 💫 About Me:
-I am a computer engineering student (graduating in 2024).
+I am a computer engineer.
 
-🔭I'm currently working on : My final year project, studying the use of machine learning to help mental illness diagnosis<br>🌱I'm currently learning : GDScript<br>⚡Fun fact : I still own my first nintendo DS
+🔭I'm currently working on : A Tetris clone<br>🌱I'm currently learning : Qt<br>⚡Fun fact : I still own my first nintendo DS
 
 
 ## 🌐 Socials:
