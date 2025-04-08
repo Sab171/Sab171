@@ -2,7 +2,7 @@
 # 💫 About Me:
 I am a computer engineer.
 
-🔭I'm currently working on : A Tetris clone<br>🌱I'm currently learning : Qt<br>⚡Fun fact : I still own my first nintendo DS
+🔭I'm currently working on : Learning Qt<br>🌱I'm currently learning : Qt<br>⚡Fun fact : I still own my first nintendo DS
 
 
 ## 🌐 Socials:
